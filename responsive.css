@@ -1,0 +1,86 @@
+@media only screen and (max-width:620px){
+
+
+.navbar{
+  
+    display: flex;
+}
+
+.start{
+display: none;
+}
+.middle{
+    width: 100px !important;
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+    margin-top: 10px !important;
+}
+
+.end{
+
+    width: 300px;
+    display: flex;
+    margin: 0;
+    align-items: center;
+}
+
+.end button{
+
+}
+
+
+.home span{
+    font-size: 35px !important;
+    width: 430px !important;
+   
+}
+
+
+.home span img:nth-child(1){
+height: 50px !important;
+width: 50px !important;
+}
+.home span img:nth-child(2){
+    height: 45px !important;
+    width: 55px !important;
+    }
+
+
+
+    .home p{
+        width: 400px !important;
+        font-size: 17px !important;
+    }
+
+.btn-bros{
+    gap: 5px !important;
+}
+
+    .bg-wg{
+
+    }
+
+
+    .bg-wg span{
+        font-size: 35px !important;
+        width: 200px !important;
+    }
+
+
+    .bg-wg p{
+        width: 400px !important;
+    }
+.card-plaza{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.card1{
+    width: 90% !important;
+}
+
+}
